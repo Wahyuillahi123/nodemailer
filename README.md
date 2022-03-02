@@ -51,4 +51,6 @@ pada bagian ini bertujuan agar mengirimkan email verifikasi kepada user setiap k
 - Buat akun user nonaktif setelah melakukan register
 - setelah menerima pesan verifikasi aktifkan akun user dengan sistem update
 
-
+# Support
+Follow my instagram : https://www.instagram.com/wahyu_illahi07/ 
+Youtube Channel : https://www.youtube.com/playlist?list=PL2DC6n3PrEKVXN9nvzONe9idXa9BgCusj
