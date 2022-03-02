@@ -1,4 +1,4 @@
-# nodemailer
+# Nodemailer
 nodemailer adalah fitur verifikasi pada nodejs, untuk mengirimkan pesan email secara otomatis pada vps server.
 jika kamu kesulitan dalam memahami fitur ini, mampir di halaman ini adalah langkah yang tepat.
 
